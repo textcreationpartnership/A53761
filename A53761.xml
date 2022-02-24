@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the persecuted and oppressed Protestants in some parts of Germany and Hungary laid open in a memorial which was lately presented at Vienna to his Imperial Majesty / by His Majesty the King of Sweden's Ambassadour Extraordinary, the Count of Oxenstierna.</title>
+            <author>Oxenstierna, Bengt Gabrielsson, greve, 1623-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53761</idno>
+            <idno type="STC">Wing O843</idno>
+            <idno type="STC">ESTC R32199</idno>
+            <idno type="EEBO-CITATION">12354939</idno>
+            <idno type="OCLC">ocm 12354939</idno>
+            <idno type="VID">60112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60112)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1024:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the persecuted and oppressed Protestants in some parts of Germany and Hungary laid open in a memorial which was lately presented at Vienna to his Imperial Majesty / by His Majesty the King of Sweden's Ambassadour Extraordinary, the Count of Oxenstierna.</title>
+                  <author>Oxenstierna, Bengt Gabrielsson, greve, 1623-1702.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1674 /5 [i.e. 1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: t.p. stained.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leopold --  I, --  Holy Roman Emperor, 1640-1705.</term>
+               <term>Protestants --  Germany.</term>
+               <term>Protestants --  Hungary.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60112:1"/>
+            <pb facs="tcp:60112:1" rendition="simple:additions"/>
+            <p>THE CASE OF THE PERSECUTED and OPPRESSED PROTESTANTS In ſome Parts of Germany and Hungary: Laid open in a MEMORIAL, Which was lately preſented at <hi>VIENNA</hi> TO HIS Imperial Majeſty, By His Majeſty the King of <hi>SWEDEN'S</hi> Ambaſſadour Extraordinary, the Count of
+<hi>Oxenſtierna.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>Tho. Newcomb,</hi> 1674/5:</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:60112:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:60112:2"/>
+            <opener>
+               <salute>May it pleaſe Your Sacred Imperial and Royal Majeſty;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Sacred Royal Majeſty, my moſt gracious Lord and Maſter, doth cheriſh a good and due opinion of Your Sacred Imperial Majeſties Equity and Indulgence upon all occaſions; ſo doth He, with the greateſt confidence, rely on, and moſt earneſtly requeſt the ſame, as to the ſtraits and neceſſities of the moſt afflicted Proteſtants, living within your Kingdoms and Provinces: For Honour, Conſcience, and not onely Chriſtianity, but even Humanity it ſelf urge it. His Royal Majeſty had indeed much rather have ſpared the mention of a thing ſo often re<g ref="char:EOLhyphen"/>peated, nor would he have ſtirred any more in this buſineſs, had the Promiſes ſo often made formerly, and now lately renewed by the Count of <hi>Sternbergh, That thoſe of the</hi> Auſpurge <hi>Confeſſion ſhould be ſo treated, that neither they, nor any other Proteſtants in their name, ſhould have any occaſion of complaint,</hi> ob<g ref="char:EOLhyphen"/>tained hitherto the due and hoped effect; and if nothing had been done againſt them, contrary to the Grace and Indulgence ſo certainly promiſed them by Your Imperial Majeſty: But how far otherwiſe it fares with them hitherto, and how notoriouſly miſerable their condition, although it may perhaps be concealed by the cunning of ſome Zelotes, who intercept the Groans of the oppreſſed Proteſtants from coming to the moſt benign Ear of Your Sacred im<g ref="char:EOLhyphen"/>perial Majeſty; yet His Sacred Royal Majeſty hath, to His no ſmall grief, underſtood, by no leſs ſad then certain relations. And he hopes, that Your Im<g ref="char:EOLhyphen"/>perial Majeſty will not think ſtrange, if he cannot behold, without regret, and without interpoſing in their behalf, that His own Religion ſhould, in thoſe of the ſame Profeſſion, ſuffer ſo diſmal a Perſecution; and under this colour, that ſo many, not onely innocent, but well-deſerving perſons, ruined in all their Fortunes, ſhould be expoſed to the moſt exquiſite Contumelies and mockeries; and that the Proteſtant Miniſters, eſpecially in the Cities of <hi>Hungary, Leopoldo<g ref="char:EOLhyphen"/>ple, Capuarina, Camara,</hi> and others, being moſt violently ſeized on, ſhould be pillaged, and inſolently abuſed, and, ſtead with ſtripes, ſtarved with hunger and nakedneſs, be thruſt down into moſt loathſome and horrible Priſons, among Snakes and Toades; and moreover ſo bound and manacled, that they want all deſence to help themſelves againſt the Venomous Creatures; and that even where they are moſt favourably dealt with, and ſuffered to live above ground, that there being compelled to Employments, not ſo laborious, but the moſt filthy and noiſom that can be invented, loaded perpetually with Chains more cru<g ref="char:EOLhyphen"/>elly, than thoſe that are guilty of the moſt heinous Parricides or Treaſons, without all commiſeration, without any ſatiety in mocking abuſing them, they ſhould lead a life, than which, Hell it ſelf may ſeem more tolerable. To this may be added, that to deprive their Souls and Conſciences of all Means of Inſtruction, all Schools and Helps of good Education and Piety, by which their Youth ought in their tender age to be bought up, and formed
+<pb n="4" facs="tcp:60112:3"/>for uſe and ſerviceableneſs, and to a faithful ſubjection towards Your Imperial Majeſty, are, without any regard to the maintenance of Publick Faith, abſo<g ref="char:EOLhyphen"/>lutely refuſed them. That I may not paſs by, how even they are not allowed Ba<g ref="char:EOLhyphen"/>ptiſm by the Hands of Proteſtant Miniſters; that the uſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Churches, either by their own Bloud gained from the <hi>Turk,</hi> or at the Proteſtants own Charges built by the Imperial Conſent and Permiſſion, is refuſed them. It is in earneſt very ſad<g ref="char:punc">▪</g> that the things of this World ſhould ſo far be preferred be<g ref="char:EOLhyphen"/>fore thoſe of Heaven: that, while Players and Mountebanks have Places aſ<g ref="char:EOLhyphen"/>ſigned, nay, and Priviledges granted them, and ſo much tenderneſs is uſed to that ſort of People, which never is without nuſance and inconvenience to others; thoſe that have embraced Chriſt, and are neither troubleſome, nor incommodious to the Publick, but do ſeriouſly pray for the health and ſafety of Your Imperial Majeſty, are in the mean time debarred to joyn in Prayer, under a mean
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed, where it rains through; nay, under the open Sky, or in the privacy of their own Houſes, and that under pain of the moſt intolerable puniſhments. It is far from His Sacred Royal Majeſty, hereby to impute any fault to your Imperial Majeſty, a Prince ſo renowned for Clemency, Equity, and Honour; eſpecially when He calls to memory, how great Evidences You have given of a Mind, deſervedly abhorring and condemning this manner of pro<g ref="char:EOLhyphen"/>ceeding, ſo barbarous, ſo contrary to the gentle Rule of Chriſt, and the Apo<g ref="char:EOLhyphen"/>ſtolick Example of Charity, no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely by Your benign Anſwers and Promiſes declared to His Sacred Royal Majeſty, by His Miniſters, but alſo by Your Praiſe-worthy Edicts, publiſhed in favour of the Proteſtants, after the Example of Your Predeceſſors of moſt Glorious Memory, who diſdained not to own the Proteſtants among their faithful Subjects, and to interpoſe their Authority for ſecuring them. But while thoſe miſerable Perſons confide in thoſe Records, and Your Imperial Majeſty emulates the Renown of Your Anceſtors, with a worthy tenderneſs towards them, and all others; it ſo happens, that the Fruit of ſo great a Virtue, and of ſo great a Benefit, is blaſted, both as to Your Impe<g ref="char:EOLhyphen"/>rial Majeſty, and thoſe for whom it was deſign'd; and that Your Inviolable Imperial Word is eluded and infringed, by I know not what tricks and pretences; the miſerable Proteſtants never lived in leſs ſecurity, then after the obtaining the Imperial Declarations and Laws for their ſecurity, as if they were made onely for a time, not ſo much for the ſafeguard of the Afflicted, as for a ſhow of Clemency, but not to avail againſt the Cruelty of Perſecution. The Authors of this Calamity might have discharged their Duty much better, would they have endeavoured to maintain Your Imperial Honour and Dignity, by an Execution conformable to Your ſo Benign Imperial Intention, rather than to undermine and overthrow it for Profane, far from Pious purpoſes. By which it comes to that paſs at laſt, that it is not lawful for Men to be Godly, Honeſt, and Loyal, and ſo many Chriſtian and moſt Sincere Souls being driven out of the Do<g ref="char:EOLhyphen"/>minion of Your Imperial Majeſty, are, which is a thing moſt miſerable, bound under the yoke of the <hi>Turkiſh</hi> Slavery.</p>
+            <p>His Royal Majeſty would not deprecate the utmoſt ſeverity againſt the Pro<g ref="char:EOLhyphen"/>teſtant Subjects of Your Imperial Majeſty, if their diſſenting not from the Foundation of Chriſtian Salvation, but from ſome Additions to the Apoſtolical Doctrines, did involve them in any Crimes or Wickedneſs; if this their Non<g ref="char:EOLhyphen"/>conformity in Religion did corrupt their Loyalty, or the Civil Happineſs; if the Proteſtants did by Seditious Counſels riſe up againſt Your Imperial Ma<g ref="char:EOLhyphen"/>jeſty; if by Riots or Irregular Tumults they attempted upon Your Supreme Authority; if they avoided any Duty of moſt Loyal Subjects; or if they obeyed Your Commands with leſs readineſs than the Papiſts: But ſeeing the
+<pb n="5" facs="tcp:60112:3"/>contrary is manifeſt to all men, notwithſtanding the falſe Gloſs of Conſpiracy, or being Complices therein, wherewith their Perſecutions are for the moſt part coloured; whereas the Proteſtants live quietly and peaceably, and approve themſelves, as becomes them, towards their Prince, and do ſo much abhor the Crime of Treaſon or Diſloyalty; that there is nothing which they do more earneſtly deprecate, than the neceſſity of parting with their Allegiance; nor any are more ready, than they, to ſacrifice their Eſtates, their Bodies, and their Lives, for Your Imperial Majeſty, againſt the Infidels; onely deſiring to keep their Souls untainted. Let thoſe, who are the Authours of theſe ſevere Counſels againſt them, conſider well, what account they can make to His Imperial Ma<g ref="char:EOLhyphen"/>jeſty, if thoſe fatal Accidents, which may enſue hereupon, but, which God for<g ref="char:EOLhyphen"/>bid, ſhould at ſome time or other, turn your ſeverity upon themſelves.</p>
+            <p>His Sacred Royal Majeſty hath in the mean time commanded me, to repreſent to Your Imperial Majeſty, how clear and remarkable the words are of the <hi>In<g ref="char:EOLhyphen"/>ſtrument of Peace,</hi> in favour of the Proteſtants inhabiting the Kingdoms and Provinces of Your Imperial Majeſty, and of the moſt Serene Houſe of <hi>Auſtria,</hi> whereby the free Exerciſe of Religion is inviolably, explicitly, and by name granted to ſome of them, and particularly to thoſe of
+<hi>Sileſia:</hi> The condition of others in this matter is reſpited to another time, to be diſpatched by the Ami<g ref="char:EOLhyphen"/>cable interpoſition of His Royal Majeſty, and the humble Interceſſion (which has, notwithſtanding, hitherto been ſo vainly attempted) of the States of the <hi>Auſpurge</hi> Confeſſion. Verily it can ſcarce be believed, without injuring thoſe, who laboured in that ſo pious and ſincere Agreement, that they did add this Clauſe in vain, (though ſuch it hath hitherto proved) or that they intended to delude theſe miſerable Perſons with deceitful hopes: Foraſmuch therefore, as no leſs in reſpect to the Publick Honour and Dignity, than to the Nature of all Agreements, the Words of that Clauſe ought to operate ſomething; the leaſt that they can operate muſt be, that the Proteſtants may be left however in the ſame ſtate that they were, when the Peace was concluded. And His Royal Majeſty hopes, that Your Imperial Majeſty will no more inſiſt upon the Di<g ref="char:EOLhyphen"/>ſtinction uſed by the Count of <hi>Sternberg</hi> in <hi>Sweden,</hi> between the Dutchies of
+<hi>Sileſia,</hi> belonging to Your Royal Chamber and Table, and others, and upon the excluding of <hi>Hungary</hi> from theſe Kingdoms of Your Imperial Majeſty, which are comprehended in the Senſe of the Pacification: Seeing neither that Di<g ref="char:EOLhyphen"/>ſtinction, nor this Excluſion, hath any foundation at all in the Inſtrument of Peace, but doth rather directly oppoſe it. Which things being ſo, His Royal Majeſty doth, with all the power that He properly hath of intreating and pre<g ref="char:EOLhyphen"/>vailing with Your Imperial Majeſty, for thoſe oppreſſed Proteſtants, groaning under ſo great rigor and cruelty of Inquiſitions, beſeech and conjure Your Im<g ref="char:EOLhyphen"/>perial Majeſty, by the Rights of the Friendſhip, and ſincere Correſpondence perpetually to be obſerved with Your Imperial Majeſty, by the Publick Tran<g ref="char:EOLhyphen"/>quillity, by Your own Clemency, by Your Honour, and even by Your Self, that in conformity to the Priviledges granted by your moſt Auguſt Anceſtors, and by Your Self to the Proteſtants, and to the Publick Laws and Agreements, You would command, that they may have liberty of Conſcience; and that reſtoring in Your Kingdoms and Hereditary Provinces the Exerciſe of their Religion, together with their Churches, Seminaries and Schools, which heretofore be<g ref="char:EOLhyphen"/>longed to them, You would deign once for all, to revive the Spirits of the Proteſtants, drooping under the want of their Divine Worſhip, from that de<g ref="char:EOLhyphen"/>ſperate life, in which at preſent they languiſh; and that You will think fit to retain them as Yours, who are Yours, both by their Birth, and by the Duty of their inviolated Loyalty. And hereby it will come to paſs, that henceforward
+<pb n="6" facs="tcp:60112:4"/>Your Imperial Majeſty will be free from all further interruptions, of thoſe, who interceed for them, and that as many miſerable Perſons, as do now with ſighs and groans lament unto God their ſad condition; ſo many hereafter ſhall with Praiſes Celebrate the Goodneſs and Equity of their moſt Indulgent Lord and Emperour, and with moſt ardent Prayers recommend to Heaven Your Health, Life, and Proſperity.</p>
+            <p>But in particular, foraſmuch as ſeveral undoubted Rights and Priviledges, which belong by the <hi>Inſtrument of Peace,</hi> to the Proteſtants of the Order of Knights, and their Subjects, in the Dutchies of <hi>Sileſia, Tropaw,</hi> and <hi>Jegerndorffe,</hi> have been divers ways infringed, and, as far as poſſible, utterly torn in pieces, partly by New Articles added two or three years ago to the Provincial Ordinance of <hi>Tropaw,</hi> and partly by ſundry bold Attempts of the Miſſionaries of the Biſhop of <hi>Olmutz;</hi> His Sacred Royal Majeſty doth exceedingly, and moſt inſtantly urge Your Sacred Imperial Majeſty, that you would deign to leave inviolate, and maintain not onely the aforeſaid Orders of Knights, and their Subjects, in the ſaid Places, but alſo whatſoever other Proteſtants, living within the other Dutchies of <hi>Sileſia,</hi> in full and quiet Liberty of Conſcience, and Education, (as doth moſt rightly belong by the Publick Agreement) and in the Right ap<g ref="char:EOLhyphen"/>pertaining to them hitherto, as well of ſerving in the Publick Dignities and Of<g ref="char:EOLhyphen"/>fices of the Province, as of purchaſing and poſſeſſing immovable Goods or Lands therein. And to that purpoſe, that You would not onely haſten to Cancel the Articles of the ſaid Ordinance, by which this is forbidden; but alſo either to remove and recall the ſaid Miſſionaries, or ſo to bridle their rigid and licentious proceedings, that they may for the future deſiſt from the moſt unjuſt violence, they have hitherto exerciſed, in Reforming Religion in the Cities of
+<hi>Leobſchutz, Teſchin,</hi> and other Territories adjoyning, (againſt which, the three years Interceſſion and Sollicitation of His Royal Majeſty hath produced no other effect, than that above four hundred Inhabitants of <hi>Leobſchutz</hi> are forced to wander, begging through the Neighbouring Countries) and that You would cauſe them to reſtore to the foreſaid Order of Knights, without any impediment, the Feudatary Lands hitherto uſurped from them: Whereby this alſo will of conſequence follow, by the Clemency and Equity of Your Sacred Im<g ref="char:EOLhyphen"/>perial Majeſty, that thoſe Miſſionaries ſhall no longer have power, under pre<g ref="char:EOLhyphen"/>tence of I know not what Contingences of the Stole, and ſuch like; to deſpoil the wretched Proteſtants of their Eſtates; eſpecially ſeeing by this way of pro<g ref="char:EOLhyphen"/>ceeding, they do nothing but make in the Dominions of Your Imperial Majeſty, a ſad ſolitude for want of good Subjects; they chaſe away the Inhabitants from their Cities, the Husbandmen from the Land, and compel the otherwiſe moſt honeſt and moſt Loyal Subjects of Your Imperial Majeſty, either to be ill ones, or to have no being.</p>
+            <p>In the ſame manner, about the beginning of this Year, at the inſtances of His Sacred Royal Majeſty, and previous to a perpetual Sanction, it was eſtabliſhed by Your Sacred Imperial Word, and by Publick Records, that the Proteſtants living in <hi>Hungary,</hi> and particularly the Citizens of <hi>Edenburg,</hi> who are, if any, ſignal and devoted in their ſubjection to Your Imperial Majeſty, ſhould have free Exerciſe of their Religion; yet afterwards it hapned, that their meeting for Divine Worſhip was removed from <hi>Edenburg</hi> to
+<hi>Eyſenſtadt,</hi> whether there is no going ſafely, or without moſt grievous inconvenience, by reaſon of the di<g ref="char:EOLhyphen"/>ſtance of the Places, and the Paſſage infeſted by the Enemy, although there was no probable reaſon for it, and why the Publick Faith ſhould be in this degree interrupted; unleſs perhaps, that the Liberty and Rights of the Proteſtants being looſened and weakened by the dangers and troubles of that change, might,
+<pb n="7" facs="tcp:60112:4"/>in concluſion, be utterly overthrown with the greater facility. His Sacred Royal Majeſty therefore, as judging, that nothing doth more belong to Him, and nothing ought to be proſecuted by Him, with more earneſt affection, than the ſafety of thoſe, whom the Communion of the ſame Religion endeareth to Him, doth Amicably, Brotherly, and moſt Vehemently requeſt of Your Sacred Imperial Majeſty, that You would at length ſo far conſider His ſo often repeated Interpoſition, nay, Your own Honour, that the Liberties ſo gratiouſly confirm<g ref="char:EOLhyphen"/>ed by Your Self to thoſe of <hi>Edenburg,</hi> may have the convenient and deſired Effect, and that the Exerciſe of their Religion, which, contrary to the Tenour of Your Grant, hath been caſt out, or (as it hath pleaſed the Secretary's Office in
+<hi>Hungary</hi> to expreſs it) baniſhed into a place, ſo improper, together with the Churches, that have been taken away; and the Schools and Colledges, which are ſo exceeding neceſſary, may be reſtored both to their City, and to the other Cities and Towns, and that they may enjoy them for the future freely, and un<g ref="char:EOLhyphen"/>diſturbed, without any hinderance or violence. His Royal Majeſty deſires Your Imperial Majeſty to be fully perſwaded, that You cannot give Him a more evident<g ref="char:punc">▪</g> or more acceptable Pledge of Your Benign, Friendly, and Brotherly Mind, than by ſuffering Your Self to be prevailed with in this Matter, by being pleaſed, to ſecond His moſt earneſt Zeal and Charity towards His afflicted Companions in Religion, and by giving preſent eaſe to their calamitous Con<g ref="char:EOLhyphen"/>dition.</p>
+            <p>Theſe things will extremely increaſe the Fame of Your Imperial Majeſty's Clemency, and will not onely put a moſt ſtrict Obligation upon His Royal Majeſty, but moreover upon ſo many Electors, Princes, and States of the Sacred Roman Empire, who will reckon themſelves to be cheriſhed in the Perſons of the Proteſtants, and will apply their favourable uſage unto themſelves; and will be ſo much the more ready, upon that account, to joyn their Arms, as oft as it ſhall be needful, with thoſe of Your Imperial Majeſty, againſt the Common Enemy, as His Royal Majeſty offers Himſelf moſt addicted, by all Endeavours and Offices, to Your Imperial Majeſty.</p>
+            <p>And ſo promiſing my ſelf an Equitable, Benign, and Speedy Declaration, con<g ref="char:EOLhyphen"/>cerning thoſe things, from Your Imperial Majeſty, I recommend my ſelf moſt ſubmiſſively to Your accuſtomed Grace and Favour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
